@@ -1,3 +1,9 @@
-# SDBC-w1-dictionary
+# Simple website with HTML (no CSS)
 
-Simple HTML without any CSS
+Website build using HTML only.
+
+**Link to project:** https://dnesh88.github.io/SDBC-w1-Dictionary/
+
+## How It's Made:
+
+**Tech used:** HTML
